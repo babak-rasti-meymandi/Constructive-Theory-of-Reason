@@ -29,7 +29,7 @@ The current working proposition distinguishes two levels of organization:
 
 The framework also treats the fifth stage as more demanding than possession of information alone. It includes the ability to apply, adapt, and appropriately explain what has been learned to other people. It may therefore occur by degrees rather than as a simple all-or-nothing state.
 
-These statements summarize the current direction of the inquiry. They are not a substitute for the full Persian source document, which will be published after editorial consolidation.
+These statements summarize the current direction of the inquiry. The complete Persian source manuscript is now available in [`docs/FRAMEWORK-PERSIAN.md`](docs/FRAMEWORK-PERSIAN.md).
 
 ## Scope and limitations
 
@@ -48,10 +48,11 @@ The project aims to preserve not only its current formulations but also the reas
 
 ## Repository guide
 
-- [Framework Overview](docs/FRAMEWORK-OVERVIEW.md) — a concise map of the five-stage model and its structural propositions.
+- [Persian Framework Manuscript](docs/FRAMEWORK-PERSIAN.md) — the complete Persian source document (the primary reference for the current formulation).
+- [Framework Overview](docs/FRAMEWORK-OVERVIEW.md) — a concise English map of the five-stage model and its structural propositions.
 - [Research Status](docs/RESEARCH-STATUS.md) — what is currently established within the discussion, what remains provisional, and what requires further work.
 
-The Persian source document and a fuller account of the dialogue and revisions are intended to be added after careful consolidation. English materials should be read as translations or editorial presentations of the Persian conceptual work, not as independent sources of authority.
+The Persian manuscript is the primary source for the current framework. The existing English materials are concise editorial presentations and should not be treated as substitutes for the Persian text or as independent sources of authority.
 
 ## How to examine this work
 
