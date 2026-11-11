@@ -44,7 +44,7 @@ At this stage, the repository does not claim:
 
 ## Work required before treating the framework as a stable publication
 
-1. Consolidate the complete Persian source document, preserving the user's original positions and the sequence of objections and revisions.
+1. The complete Persian source manuscript has been added at `docs/FRAMEWORK-PERSIAN.md`. A separate audit is still needed to ensure that the full sequence of objections and revisions is preserved; the current manuscript is a consolidated version, not a complete dialogue transcript.
 2. Check that each stage has an independent definition and explicit conditions of attainment.
 3. Review examples to ensure they illustrate rather than silently redefine the concepts.
 4. Audit the distinction between ordered progression within one dimension and parallel/recursive relations across dimensions.
@@ -67,4 +67,4 @@ A lack of evidence should be reported as a limitation, not filled with speculati
 
 ## Revision history
 
-This file is an initial status record created for the public repository. It is not a transcript of the original discussion and does not claim to reproduce every question, answer, objection, or revision. It must be updated when the consolidated Persian source document is added.
+This file is an initial status record created for the public repository. It is not a transcript of the original discussion and does not claim to reproduce every question, answer, objection, or revision. The complete consolidated Persian manuscript is now available at `docs/FRAMEWORK-PERSIAN.md`.
