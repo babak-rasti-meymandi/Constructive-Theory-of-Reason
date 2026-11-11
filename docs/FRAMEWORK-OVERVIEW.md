@@ -66,4 +66,4 @@ The definitions in this overview are currently framed around biological human co
 
 ---
 
-This document is a provisional map for readers. The complete source document, detailed examples, objections, and revision history should take precedence once published.
+This document is a concise provisional map for readers. The complete Persian source manuscript at [`FRAMEWORK-PERSIAN.md`](FRAMEWORK-PERSIAN.md) takes precedence where this overview omits detail. The manuscript is a consolidated conceptual document, not a complete transcript of every question, objection, and revision.
