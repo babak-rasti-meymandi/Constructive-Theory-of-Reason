@@ -57,6 +57,8 @@ The Persian manuscript is the primary source for the current framework. The exis
 
 - [Structural Understanding and Engineering Competence](docs/DEVELOPMENT-HISTORY/03-STRUCTURAL-UNDERSTANDING-AND-ENGINEERING-COMPETENCE.md) — record of the disagreement about structural understanding, modification capability, professional responsibility, and uncertainty.
 
+- [Predictability and Controlled Change](docs/DEVELOPMENT-HISTORY/04-PREDICTABILITY-AND-CONTROLLED-CHANGE.md) — the author's position on system regularity, predictability, purposeful modification, and دانایی.
+
 ## How to examine this work
 
 Readers are encouraged to challenge:
