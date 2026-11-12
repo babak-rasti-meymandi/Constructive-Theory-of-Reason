@@ -68,3 +68,6 @@ A lack of evidence should be reported as a limitation, not filled with speculati
 ## Revision history
 
 This file is an initial status record created for the public repository. It is not a transcript of the original discussion and does not claim to reproduce every question, answer, objection, or revision. The complete consolidated Persian manuscript is available at `docs/FRAMEWORK-PERSIAN.md`. The partial early development record is available at `docs/DEVELOPMENT-HISTORY/`.
+
+
+The development-history directory now also includes a record of the discussion about structural understanding, modification capability, engineering responsibility, and the limits of prediction. This is a record of an unresolved disagreement, not a settled addition to the five-stage definitions.
