@@ -59,6 +59,8 @@ The Persian manuscript is the primary source for the current framework. The exis
 
 - [Predictability and Controlled Change](docs/DEVELOPMENT-HISTORY/04-PREDICTABILITY-AND-CONTROLLED-CHANGE.md) — the author's position on system regularity, predictability, purposeful modification, and دانایی.
 
+- [Questions 21–40: Structure and Operationalization](docs/DEVELOPMENT-HISTORY/05-QUESTIONS-21-TO-40-STRUCTURE-AND-OPERATIONALIZATION.md) — stage sequence and recursion, supporting capabilities, AI boundaries, observable indicators, and proposed practical tests.
+
 ## How to examine this work
 
 Readers are encouraged to challenge:
