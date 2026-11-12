@@ -74,3 +74,6 @@ The development-history directory now also includes a record of the discussion a
 
 
 The development history now records the author's position that predictability and conscious control of change are fundamental to دانایی, together with the distinction drawn between constrained systems and open systems. The scope and implications remain available for further discussion.
+
+
+The development history now includes Questions 21–40. This record documents the proposed dimensional and temporal relations among the five stages; the role of supporting mechanisms and complementary capabilities; operational AI capability descriptions distinguished from phenomenal-consciousness claims; and proposed observable indicators, assessment methods, transfer measurement, and practical-domain tests. These are preserved as discussion outputs and proposals; their empirical validation remains open.
