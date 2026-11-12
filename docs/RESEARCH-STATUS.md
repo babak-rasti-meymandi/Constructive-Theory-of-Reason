@@ -71,3 +71,6 @@ This file is an initial status record created for the public repository. It is n
 
 
 The development-history directory now also includes a record of the discussion about structural understanding, modification capability, engineering responsibility, and the limits of prediction. This is a record of an unresolved disagreement, not a settled addition to the five-stage definitions.
+
+
+The development history now records the author's position that predictability and conscious control of change are fundamental to دانایی, together with the distinction drawn between constrained systems and open systems. The scope and implications remain available for further discussion.
