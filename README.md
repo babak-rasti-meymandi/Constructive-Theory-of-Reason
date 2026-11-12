@@ -55,6 +55,8 @@ The project aims to preserve not only its current formulations but also the reas
 
 The Persian manuscript is the primary source for the current framework. The existing English materials are concise editorial presentations and should not be treated as substitutes for the Persian text or as independent sources of authority.\n\nThe early development record is maintained separately under [`docs/DEVELOPMENT-HISTORY/`](docs/DEVELOPMENT-HISTORY/). It documents the chronology of initial proposals, refinements, and conceptual boundaries without reproducing personal anecdotes or informal dialogue. It is a partial historical record, not a complete transcript.
 
+- [Structural Understanding and Engineering Competence](docs/DEVELOPMENT-HISTORY/03-STRUCTURAL-UNDERSTANDING-AND-ENGINEERING-COMPETENCE.md) — record of the disagreement about structural understanding, modification capability, professional responsibility, and uncertainty.
+
 ## How to examine this work
 
 Readers are encouraged to challenge:
