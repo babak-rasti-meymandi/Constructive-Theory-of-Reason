@@ -96,3 +96,6 @@ The development history now includes [Decision Record 06](DEVELOPMENT-HISTORY/06
 - Resistance to revision may reduce the quality and calibration of judgment; it is not automatically equivalent to absence of advanced cognition when the possibility of revision remains open.
 
 These are conceptual decisions reached in the discussion. Their implications for assessment and the relation between metacognitive calibration and stage attainment remain open for further operational work.
+
+
+The detailed reasoning and decision history for these points is preserved in [Decision Record 07](DEVELOPMENT-HISTORY/07-SUBJECT-ORIENTED-STAGES-AND-METACOGNITION.md).
