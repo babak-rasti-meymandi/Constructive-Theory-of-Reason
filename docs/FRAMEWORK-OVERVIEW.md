@@ -56,6 +56,12 @@ The current position distinguishes the scale at which sequence is being consider
 
 This distinction avoids treating the entire cognitive life of a person as one simple, globally linear chain.
 
+## 6A. Purpose: self-knowledge and reflective growth
+
+The framework is intended to help people understand their cognitive development in relation to a particular subject or dimension. It is a framework for self-knowledge and conscious growth, not a certification, credentialing, employment-ranking, or social-classification system.
+
+It should help an individual reflect on their current cognitive position, what they know, what capabilities they have acquired, what remains unknown, and what capacities may need further development. These are reflective prompts, not a formal scoring or certification instrument. A lack of opportunity to demonstrate a capability should not automatically be treated as evidence that the capability is absent.
+
 ## 7. Supporting processes
 
 The discussion has also considered supporting processes such as memory, attention, processing, comparison, inference, evaluation, judgment, choice, and decision.
