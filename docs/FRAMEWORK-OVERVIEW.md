@@ -32,7 +32,7 @@ A “new capability” means a capability newly acquired by the individual throu
 
 **Working question:** How can direct application of a known model be distinguished from genuine pattern generalization and reconstruction?
 
-## 5. Civic/Practical Wisdom — شهرآگاهی
+## 5. Practical Wisdom — شهرآگاهی
 
 The fifth stage concerns the integration, adaptation, and appropriate use of knowledge and learned capabilities in a changing environment in pursuit of a goal. The current discussion emphasizes that a person may reach a goal through more than one possible route and must be able to respond when circumstances change.
 
