@@ -86,3 +86,13 @@ The development history now includes Questions 21–40. This record documents th
 
 
 The development history now includes [Decision Record 06](DEVELOPMENT-HISTORY/06-DANAYI-YAD-IMPORTANCE-AND-CITY-AWARENESS.md). It records the clarified boundary between دانایی and یاد, the individual-relative meaning of “new capability” in یاد, the reciprocal relation between importance and cognitive growth, and the treatment of invention and discovery as City-awareness quality indicators rather than attainment conditions. These are current conceptual decisions; operationalization and empirical assessment remain open.
+
+
+## Additional conceptual decisions: subject orientation and metacognitive comparison
+
+- **The stages of thought development are subject-oriented, not fixed and unified personality traits.** A person's stage must be assessed relative to a specified subject or dimension. The same person may occupy different stages across different subjects or dimensions of one subject.
+- In a comparison concerning a particular subject, greater subject-specific knowledge, relational understanding, and predictive capacity can place Person 1 at a higher cognitive stage than Person 2, even if Person 1 is reluctant to accept the limitations of their model, provided that the possibility of revision and acceptance remains open.
+- Person 2's lower knowledge combined with easier admission of not knowing does not, by itself, place Person 2 at a higher stage. Epistemic humility and openness to correction matter, but they do not substitute for the development of subject-specific understanding.
+- Resistance to revision may reduce the quality and calibration of judgment; it is not automatically equivalent to absence of advanced cognition when the possibility of revision remains open.
+
+These are conceptual decisions reached in the discussion. Their implications for assessment and the relation between metacognitive calibration and stage attainment remain open for further operational work.
