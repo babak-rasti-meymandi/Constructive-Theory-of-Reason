@@ -62,11 +62,11 @@ The discussion has also considered supporting processes such as memory, attentio
 
 At this stage, these are treated as supporting mechanisms, not as additional primary stages in the five-stage sequence.
 
-## 9. Importance and cognitive growth
+## 8. Importance and cognitive growth
 
 Importance is treated as a regulatory and evaluative factor, not as a sixth primary stage. Needs, motivations, and assessments of importance direct and modulate cognitive activity. In turn, cognitive growth improves the ability to assess importance, reconsider priorities, and recognize consequences. Importance is therefore neither an absolute prerequisite for reason nor merely its final product; the relation is reciprocal.
 
-## 10. Important boundary
+## 9. Important boundary
 
 The definitions in this overview are currently framed around biological human cognition. Extending them to artificial intelligence, non-biological tools, or other systems would require a separate argument. Such an extension is not established by this framework overview.
 
