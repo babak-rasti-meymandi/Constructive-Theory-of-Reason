@@ -37,6 +37,10 @@ The fifth stage may therefore occur by degrees rather than as a simple all-or-no
 
 These statements summarize the current direction of the inquiry. The complete Persian source manuscript is now available in [`docs/FRAMEWORK-PERSIAN.md`](docs/FRAMEWORK-PERSIAN.md).
 
+## Self-knowledge and reflective purpose
+
+The framework is intended to help individuals understand their cognitive development in relation to a particular subject: where they currently stand, what they know, which capabilities they have acquired, what they do not yet know, and what capacities may support further growth. It is a tool for self-knowledge and conscious development, not a certification or ranking system. Its descriptions should remain subject-specific, evidence-sensitive, and open to revision.
+
 ## Subject-oriented stages
 
 The five stages describe development in relation to a particular subject or dimension; they are **not fixed, unified personality traits**. The same person may be at different stages in different subjects or dimensions of one subject. Cognitive-stage comparisons therefore require a specified subject and should not be reduced to a global judgment of a person's character.
