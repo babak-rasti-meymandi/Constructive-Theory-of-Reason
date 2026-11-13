@@ -75,6 +75,7 @@ The early development record is maintained separately under [`docs/DEVELOPMENT-H
 
 - [Questions 21–40: Structure and Operationalization](docs/DEVELOPMENT-HISTORY/05-QUESTIONS-21-TO-40-STRUCTURE-AND-OPERATIONALIZATION.md) — stage sequence and recursion, supporting capabilities, AI boundaries, observable indicators, and proposed practical tests.
 - [Danayi, Yad, Importance, and City-awareness](docs/DEVELOPMENT-HISTORY/06-DANAYI-YAD-IMPORTANCE-AND-CITY-AWARENESS.md) — the latest decisions on the Danayi/Yad boundary, reciprocal importance and cognitive growth, and invention/discovery as quality indicators rather than City-awareness requirements.
+- [Subject-Oriented Stages and Metacognition](docs/DEVELOPMENT-HISTORY/07-SUBJECT-ORIENTED-STAGES-AND-METACOGNITION.md) — the decision that the five stages are subject-oriented rather than unified personality traits, and the comparison between subject-specific knowledge and epistemic humility.
 
 ## How to examine this work
 
