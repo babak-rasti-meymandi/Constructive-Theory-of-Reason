@@ -37,6 +37,10 @@ The fifth stage may therefore occur by degrees rather than as a simple all-or-no
 
 These statements summarize the current direction of the inquiry. The complete Persian source manuscript is now available in [`docs/FRAMEWORK-PERSIAN.md`](docs/FRAMEWORK-PERSIAN.md).
 
+## Subject-oriented stages
+
+The five stages describe development in relation to a particular subject or dimension; they are **not fixed, unified personality traits**. The same person may be at different stages in different subjects or dimensions of one subject. Cognitive-stage comparisons therefore require a specified subject and should not be reduced to a global judgment of a person's character.
+
 ## Scope and limitations
 
 - The present inquiry is grounded in human biological cognition. It does **not** claim that the same definitions automatically apply to artificial intelligence, machines, or other non-biological systems.
